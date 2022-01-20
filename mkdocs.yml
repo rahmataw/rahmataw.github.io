@@ -1,0 +1,24 @@
+site_name: GDP Labs SRE Documentation
+#docs_dir: docs
+theme:
+  name: material
+  logo: assets/gdplabs.png
+  palette:
+    primary: light blue
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+nav:
+  - Home: index.md
+  - Projects:
+    - GLAIR:
+      - Buzz Chat: projects/glair/buzzchat.md
+      - Buzz Socmed: projects/glair/buzzsocmed.md
+    - KASKUS:
+      - Common Tasks: projects/kaskus/tasks.md
+    - Changelog:
+      - changelog/index.md
+      - How to upgrade: upgrade.md
+  - About: about.md
+  - FAQ: faq.md
