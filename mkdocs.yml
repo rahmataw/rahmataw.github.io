@@ -21,8 +21,4 @@ nav:
       - Buzz Socmed: projects/glair/buzzsocmed.md
     - KASKUS:
       - Common Tasks: projects/kaskus/tasks.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
   - FAQ: faq.md
-  - About: about.md
