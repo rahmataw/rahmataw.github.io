@@ -45,4 +45,3 @@ gcloud --version
 
 ## SCA GUIDE
 ### SCA Guidance
-[Google Doc](https://docs.google.com/document/d/1AINVTtFfZZ6dIJxSn6NMImCWiLRhYIDdAi4o8VUGPr4/edit#heading=h.kut3tmde557k)
